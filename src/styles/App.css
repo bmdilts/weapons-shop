@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+li{
+  padding: .5em;
+  color: white;
+}
+.navbar{
+  margin-left: 0;
+  padding-left: 0;
+}
