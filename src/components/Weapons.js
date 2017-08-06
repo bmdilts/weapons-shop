@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export default class Weapons extends Component {
+ export default class Class extends Component {
   constructor(props) {
     super(props);
 
@@ -11,9 +11,7 @@ export default class Weapons extends Component {
 
   render() {
     return (
-      <div>
-        Weapons
-      </div>
+      <div>Weapons</div>
     );
   }
 

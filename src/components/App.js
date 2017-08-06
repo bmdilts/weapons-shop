@@ -12,6 +12,7 @@ import ContactUs from './ContactUs';
 import Home from './Home';
 import Shields from './Shields';
 import Weapons from './Weapons';
+import Shop from './Shop'
 
 export default class App extends React.Component {
   render() {
@@ -21,8 +22,11 @@ export default class App extends React.Component {
           <BaseLayout>
             <Switch>
               <Route path="/About" component={About} />
-              <Route path="/Shop" component={Weapons} />
+              <Route path="/Shop" component={Shop} />
               <Route path="/ContactUs" component={ContactUs} />
+              <Route path="/Weapons" component={Weapons} />
+              <Route path="/Shields" component={Shields} />
+              <Route path="/Armor" component={Armor} />
               <Route path="/" component={Home} />
             </Switch>
           </BaseLayout>

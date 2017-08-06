@@ -7,7 +7,7 @@ export default class Shields extends React.Component {
 
   render() {
     return(
-      <div>MyComponent</div>
+      <div>Shields</div>
     );
   }
 }

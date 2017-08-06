@@ -14,7 +14,7 @@ export default class Class extends React.Component {
       <div>
         <div className='contact'>
           <div className='basicInfo'>
-            <p>KravenOak's Weaponry, Armory, Shieldery, and Haberdashery...</p>
+            <p className='purple'>KravenOak's Weaponry, Armory, Shieldery, and Haberdashery...</p>
             <p>99 Dragonscale Road, Suite 4400</p>
             <p>Level 3, Erebor</p>
           </div>
