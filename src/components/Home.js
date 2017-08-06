@@ -11,7 +11,10 @@ export default class Class extends Component {
 
   render() {
     return (
-      <div>Home</div>
+      <div className='home'>
+        <h1>KravenOak's</h1>
+        <h3>Armory and Haberdashery</h3>
+      </div>
     );
   }
 
