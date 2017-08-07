@@ -8,7 +8,7 @@ export default class Weapons extends React.Component {
 
   render() {
     return (
-      <div className='weapons'>
+      <div className='carousel_box'>
         <Carousel className='cont'>
           <Carousel.Item>
             <div className="item-box">
@@ -16,7 +16,7 @@ export default class Weapons extends React.Component {
               <Carousel.Caption>
                 <h2>Aged leather wrapped bow</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>35 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -27,7 +27,7 @@ export default class Weapons extends React.Component {
               <Carousel.Caption>
                 <h2>Arrows</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>5 schlings</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -40,7 +40,7 @@ export default class Weapons extends React.Component {
                   color: 'white'
                 }}>Bone Sword</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>50 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -53,7 +53,7 @@ export default class Weapons extends React.Component {
                   color: 'white'
                 }}>Claymore Helm Pike Combo</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>65 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -64,7 +64,7 @@ export default class Weapons extends React.Component {
               <Carousel.Caption>
                 <h2>Crossbow</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>25 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -77,7 +77,7 @@ export default class Weapons extends React.Component {
                   color: 'white'
                 }}>Crusader Sword</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>70 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -90,7 +90,7 @@ export default class Weapons extends React.Component {
                   color: 'white'
                 }}>Dark Elf Sword</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>125 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -103,7 +103,7 @@ export default class Weapons extends React.Component {
                   color: 'white'
                 }}>Double Bladed Hand Axe</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>85 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -114,7 +114,7 @@ export default class Weapons extends React.Component {
               <Carousel.Caption>
                 <h2>Scicle Sword</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>55 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -127,7 +127,7 @@ export default class Weapons extends React.Component {
                   color: 'white'
                 }}>Mountain Elf Sacred Bow</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>50 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -138,7 +138,7 @@ export default class Weapons extends React.Component {
               <Carousel.Caption>
                 <h2>Gladiator Dragon Sword</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>100 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -149,7 +149,7 @@ export default class Weapons extends React.Component {
               <Carousel.Caption>
                 <h2>Dome Splitting Hammer</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>40 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -160,7 +160,7 @@ export default class Weapons extends React.Component {
               <Carousel.Caption>
                 <h2>Elven Horned Bow</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>80 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -173,7 +173,7 @@ export default class Weapons extends React.Component {
                   color: 'white'
                 }}>Djinn Sword</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>200 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -184,7 +184,7 @@ export default class Weapons extends React.Component {
               <Carousel.Caption>
                 <h2>Triple Katar</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>60 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -195,7 +195,7 @@ export default class Weapons extends React.Component {
               <Carousel.Caption>
                 <h2>Bruiser Mace</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>50 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -208,7 +208,7 @@ export default class Weapons extends React.Component {
                   color: 'white'
                 }}>Mithrodin Sword</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>135 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -221,7 +221,7 @@ export default class Weapons extends React.Component {
                   color: 'white'
                 }}>Hunter's Recurve Bow</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>80 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -234,7 +234,7 @@ export default class Weapons extends React.Component {
                   color: 'white'
                 }}>Ebony Engraved Claymore</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>65 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -245,7 +245,7 @@ export default class Weapons extends React.Component {
               <Carousel.Caption>
                 <h2>Elven Scimitar</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>100 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -256,7 +256,7 @@ export default class Weapons extends React.Component {
               <Carousel.Caption>
                 <h2>Berzerker Axe</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>45 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>
@@ -269,7 +269,7 @@ export default class Weapons extends React.Component {
                   color: 'white'
                 }}>Rhohan Yew Bow</h2>
                 <button>
-                  <span>Buy Now!</span>
+                  <span>40 schmeckles</span>
                 </button>
               </Carousel.Caption>
             </div>

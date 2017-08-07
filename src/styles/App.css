@@ -40,7 +40,9 @@ li{
   justify-content: space-around;
   align-items: center;
   height: 85vh;
-  background-color: #193925;
+  background-image: url('/data/the_armor_shop_blurred.png');
+  background-size: cover;
+  /*background-color: #193925;*/
   margin-bottom: -3vh;
 }
 .basicInfo{
@@ -49,17 +51,19 @@ li{
   color: #e6f2ea;
   font-family: cursive;
   padding: 1em;
+  text-shadow: 3px 3px 1px black;
 }
 .contact img{
   height: 50vh;
   width: auto;
   margin-right: 2em;
   flex: 1 1 45%;
+  box-shadow: 4px 4px 1px black;
 }
 .pin{
   height: 3em;
-  margin-top: -68em;
-  margin-right: -67em;
+  margin-top: -118vh;
+  margin-right: -64vw;
 }
 .about{
   display: flex;
@@ -67,8 +71,14 @@ li{
   justify-content: space-around;
   align-items: center;
   height: 85vh;
-  background-color: #193925;
+  background-image: url('/data/the_armor_shop_blurred.png');
+  background-size: cover;
+  /*background-color: #193925;*/
   margin-bottom: -3vh;
+  text-shadow: 3px 3px 1px black;
+}
+.about img{
+  box-shadow: 4px 4px 1px black;
 }
 .pitch{
   color: #e6f2ea;
@@ -86,7 +96,9 @@ li{
   justify-content: space-around;
   align-items: center;
   height: 85vh;
-  background-color: #193925;
+  background-image: url('/data/the_armor_shop_blurred.png');
+  background-size: cover;
+  /*background-color: #193925;*/
 }
 .shop-cat{
   width: 32vw;
@@ -109,7 +121,7 @@ li{
   background-position: center;
 }
 #shields-cat{
-  background-image: url('/data/Shields and Helms/Dwarven Ram Shield.jpg');
+  background-image: url('/data/Shields/Dwarven Ram Shield.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -118,9 +130,13 @@ li{
   background-size: cover;
   background-position: center;
 }
-.weapons{
+.carousel_box{
   font-family: cursive;
-  background-color: #193925;
+  background-image: url('/data/the_armor_shop_blurred.png');
+  background-size: cover;
+  /*background-color: #193925;*/
+  height: 85vh;
+  padding: 5vh 0 7vh 0;
 }
 .item-box{
   display: flex;
@@ -147,10 +163,7 @@ li{
   display:none
 }
 .item-box button:hover:before{
-  content:"Today Only! $50"
-}
-.weapons{
-  height: 85vh;
+  content:"Buy Now!"
 }
 .cont{
   height: 65vh;

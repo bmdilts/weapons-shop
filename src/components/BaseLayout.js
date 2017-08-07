@@ -14,12 +14,8 @@ export default class BaseLayout extends React.Component {
     return (
       <div className='nav'>
         <ul className="navbar nav-pills nav-justified navbar-inverse">
-          <li><img src='data/dwarf_ram_shield.png' style={{height: '6em'}}/></li>
-          <li><NavLink activeStyle={{
-            color: "blue",
-            backgroundColor: "slategrey",
-            padding: '.5em'
-          }} exact to='/'>Home</NavLink></li>
+          <li><NavLink exact to='/'><img src='data/dwarf_ram_shield.png' style={{height: '6em'}}/></NavLink></li>
+          <li><NavLink exact to='/'>Home</NavLink></li>
           <li><NavLink className="nav-item nav-link" activeStyle={{
             color: "blue",
             backgroundColor: "slategrey",
