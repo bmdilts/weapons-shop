@@ -53,6 +53,16 @@ li{
   padding: 1em;
   text-shadow: 3px 3px 1px black;
 }
+.basicInfo input{
+  margin: 0 1% 1% 1%;
+  box-shadow: 3px 3px 1px black;
+}
+.basicInfo textarea{
+  box-shadow: 3px 3px 1px black;
+}
+.basicInfo button{
+  box-shadow: 3px 3px 1px black;
+}
 .contact img{
   height: 50vh;
   width: auto;
