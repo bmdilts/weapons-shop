@@ -116,4 +116,44 @@ li{
 #armor-cat{
   background-image: url('/data/Armor/elven sunlight armor.jpg');
   background-size: cover;
+  background-position: center;
+}
+.weapons{
+  font-family: cursive;
+  background-color: #193925;
+}
+.item-box{
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+}
+.item-box img{
+  margin-top: 2em;
+  height: 50vh;
+  width: auto;
+}
+.item-box h2{
+  text-shadow: 2px 2px 1px grey;
+  color: black;
+}
+.item-box button{
+  width: 8em;
+  border-radius: 3px;
+  border: 1px solid black;
+  color: black;
+  background-color: #e6f2ea;
+}
+.item-box button:hover span{
+  display:none
+}
+.item-box button:hover:before{
+  content:"Today Only! $50"
+}
+.weapons{
+  height: 85vh;
+}
+.cont{
+  height: 65vh;
+  margin: 0;
+  padding: 0;
 }

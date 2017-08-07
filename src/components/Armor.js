@@ -7,7 +7,9 @@ export default class Armor extends React.Component {
 
   render() {
     return(
-      <div>Armor</div>
+      <div>
+        Armor
+      </div>
     );
   }
 }
