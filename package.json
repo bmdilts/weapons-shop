@@ -9,6 +9,7 @@
     "react-router-dom": "^4.1.2",
     "react-scripts": "1.0.10"
   },
+  "homepage": "https://bmdilts.github.io/weapons-store",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
