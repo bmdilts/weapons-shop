@@ -3,7 +3,7 @@
   "name": "KravenOak's Weapons and Haberdashery",
   "icons": [
     {
-      "src": "/dwarf_ram_shield.png",
+      "src": "/data/dwarf_ram_shield.png",
       "sizes": "192x192",
       "type": "image/png"
     }
