@@ -11,7 +11,7 @@ li{
   padding-left: 0;
 }
 .home{
-  background-image: url('/data/the_armor_shop.jpg');
+  background-image: url('/week-ten-project/data/the_armor_shop.jpg');
   background-size: cover;
   height: 85vh;
   margin: 0;
@@ -40,7 +40,7 @@ li{
   justify-content: space-around;
   align-items: center;
   height: 85vh;
-  background-image: url('/data/the_armor_shop_blurred.png');
+  background-image: url('/week-ten-project/data/the_armor_shop_blurred.png');
   background-size: cover;
   /*background-color: #193925;*/
   margin-bottom: -3vh;
@@ -81,7 +81,7 @@ li{
   justify-content: space-around;
   align-items: center;
   height: 85vh;
-  background-image: url('/data/the_armor_shop_blurred.png');
+  background-image: url('/week-ten-project/data/the_armor_shop_blurred.png');
   background-size: cover;
   /*background-color: #193925;*/
   margin-bottom: -3vh;
@@ -106,7 +106,7 @@ li{
   justify-content: space-around;
   align-items: center;
   height: 85vh;
-  background-image: url('/data/the_armor_shop_blurred.png');
+  background-image: url('/week-ten-project/data/the_armor_shop_blurred.png');
   background-size: cover;
   /*background-color: #193925;*/
 }
@@ -126,23 +126,23 @@ li{
   transform: rotate(-15deg);
 }
 #weapons-cat{
-  background-image: url('/data/Pikes and Swords weapon shop background.jpg');
+  background-image: url('/week-ten-project/data/Pikes and Swords weapon shop background.jpg');
   background-size: cover;
   background-position: center;
 }
 #shields-cat{
-  background-image: url('/data/Shields/Dwarven Ram Shield.jpg');
+  background-image: url('/week-ten-project/data/Shields/Dwarven Ram Shield.jpg');
   background-size: cover;
   background-position: center;
 }
 #armor-cat{
-  background-image: url('/data/Armor/elven sunlight armor.jpg');
+  background-image: url('/week-ten-project/data/Armor/elven sunlight armor.jpg');
   background-size: cover;
   background-position: center;
 }
 .carousel_box{
   font-family: cursive;
-  background-image: url('/data/the_armor_shop_blurred.png');
+  background-image: url('/week-ten-project/data/the_armor_shop_blurred.png');
   background-size: cover;
   /*background-color: #193925;*/
   height: 85vh;

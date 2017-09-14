@@ -20,7 +20,7 @@ export default class About extends React.Component {
             <p>Specializing in all the things!  Swords! Maces! Pikes! Shields! Armors!  Rock, Ore and Steel are hammered into submission and painted into glorious battle implements!</p>
             <p>Fight and Win with KravenOak's!</p>
           </div>
-          <img src="/data/Swords on Anvil.jpg"/>
+          <img src="data/Swords on Anvil.jpg"/>
         </div>
       </div>
     );

@@ -13,7 +13,7 @@ export default class Shields extends React.Component {
           <Carousel className='cont'>
             <Carousel.Item>
               <div className="item-box">
-                <img alt="Bone Hand Shield" src="/data/Shields/bone hand shield.jpg"/>
+                <img alt="Bone Hand Shield" src="data/Shields/bone hand shield.jpg"/>
                 <Carousel.Caption>
                   <h2>Bone Hand Shield</h2>
                   <button>
@@ -24,7 +24,7 @@ export default class Shields extends React.Component {
             </Carousel.Item>
             <Carousel.Item>
               <div className="item-box">
-                <img alt="Ranger Leather Shield" src="/data/Shields/Celtic leather shield.jpg"/>
+                <img alt="Ranger Leather Shield" src="data/Shields/Celtic leather shield.jpg"/>
                 <Carousel.Caption>
                   <h2 style={{
                     color: 'white'

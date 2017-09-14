@@ -13,7 +13,7 @@ export default class Armor extends React.Component {
           <Carousel className='cont'>
             <Carousel.Item>
               <div className="item-box">
-                <img alt="Assassin Leather Armor" src="/data/Armor/assassin leather armor.jpg"/>
+                <img alt="Assassin Leather Armor" src="data/Armor/assassin leather armor.jpg"/>
                 <Carousel.Caption>
                   <h2 style={{
                     color: 'white'
@@ -26,7 +26,7 @@ export default class Armor extends React.Component {
             </Carousel.Item>
             <Carousel.Item>
               <div className="item-box">
-                <img alt="Light Leather Armor" src="/data/Armor/Burgundy Light Leather Armor.jpg"/>
+                <img alt="Light Leather Armor" src="data/Armor/Burgundy Light Leather Armor.jpg"/>
                 <Carousel.Caption>
                   <h2 style={{
                     color: 'white'

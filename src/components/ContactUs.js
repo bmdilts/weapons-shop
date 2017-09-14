@@ -24,9 +24,9 @@ export default class Class extends React.Component {
                 </div>
               </fieldset>
           </div>
-          <img src="/data/middleearthmap.jpg"/>
+          <img src="data/middleearthmap.jpg"/>
         </div>
-        <img className="pin" src='/data/map-pin.png'/>
+        <img className="pin" src='data/map-pin.png'/>
       </div>
     );
   }
