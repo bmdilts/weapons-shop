@@ -12,13 +12,15 @@ import ContactUs from './ContactUs';
 import Home from './Home';
 import Shields from './Shields';
 import Weapons from './Weapons';
-import Shop from './Shop'
+import Shop from './Shop';
+
+import basename from '../config.js';
 
 export default class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <BrowserRouter>
+        <BrowserRouter basename={basename}>
           <BaseLayout>
             <Switch>
               <Route path="/About" component={About} />
